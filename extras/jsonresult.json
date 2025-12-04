@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "data": {
+    "title": "Strategic Marketing Plan for MI PAL",
+    "slides": [
+      {
+        "id": "slide-0",
+        "title": "Strategic Marketing Plan for MI PAL",
+        "content": "A comprehensive overview of the strategic marketing plan for MI PAL, focusing on strengths, weaknesses, opportunities, threats, and implementation roadmap.",
+        "type": "title",
+        "layout": "centered",
+        "order": 1
+      },
+      {
+        "id": "slide-1",
+        "title": "Introduction",
+        "content": "This presentation outlines the strategic marketing plan for MI PAL, focusing on the SWOT analysis, brand story, marketing mix, target audience, and implementation roadmap.",
+        "type": "content",
+        "layout": "centered",
+        "order": 2
+      },
+      {
+        "id": "slide-2",
+        "title": "SWOT Analysis",
+        "content": "**Strengths:** 1. Strong integration of advanced analytics and automation within one platform for Indian enterprises. 2. User-friendly data upload & dashboard creation (low IT friction). 3. Agile team size for fast adaptation to market needs. 4. Relevant case studies/persona targeting in India-focused sectors.\n\n**Weaknesses:** 1. Limited brand awareness compared to established competitors. 2. Small marketing team constrains campaign scale. 3. Lack of deep multi-industry testimonials. 4. Product onboarding may face friction for large organizations.\n\n**Opportunities:** 1. Indian enterprise digital transformation wave. 2. Competitor reliance on chat/voice AI leaves a niche for deep analytics. 3. Integration-compliant with India-focused tech stacks. 4. Partnership opportunities with ERP/CRM vendors.\n\n**Threats:** 1. Large AI incumbents investing in India. 2. Security or regulatory requirements in sensitive verticals. 3. Commoditization of dashboard and AI analytics tools. 4. Competitor trajectory towards bundled AI/automation suites.",
+        "type": "list",
+        "layout": "full-width",
+        "order": 3
+      },
+      {
+        "id": "slide-3",
+        "title": "Brand Story",
+        "content": "**Hero:** Indian enterprise decision-makers striving for digital transformation.\n\n**Problem:** Fragmented, manual business processes block timely insights and productivity.\n\n**Solution:** MI PAL’s AI assistant unifies analysis, dashboards, and workflow automation.\n\n**Success:** Enterprises achieve rapid digital transformation with operational agility and empowered teams.",
+        "type": "list",
+        "layout": "full-width",
+        "order": 4
+      },
+      {
+        "id": "slide-4",
+        "title": "Marketing Mix",
+        "content": "**Channels:** 1. LinkedIn (organic & paid) 2. Account-Based Marketing (ABM) 3. Industry-specific webinars 4. Content marketing 5. Email nurturing sequences 6. Channel/partner co-marketing 7. Selective industry events.\n\n**Tactics:** 1. Targeted LinkedIn campaigns 2. Create sector-relevant case studies 3. Host educational webinars 4. Launch ABM/email cadences 5. Develop translations/local content 6. Set up partnerships 7. Leverage reviews/testimonials.",
+        "type": "list",
+        "layout": "full-width",
+        "order": 5
+      },
+      {
+        "id": "slide-5",
+        "title": "Budget Allocation",
+        "content": "**LinkedIn Advertising:** 25%\n**Content Marketing & SEO:** 20%\n**Webinars & Industry Events:** 15%\n**Email Marketing & Nurture:** 10%\n**ABM/Outbound:** 15%\n**Partnership/Channel Enablement:** 10%\n**Product Demos/Workshops:** 5%",
+        "type": "list",
+        "layout": "full-width",
+        "order": 6
+      },
+      {
+        "id": "slide-6",
+        "title": "Target Audience",
+        "content": "**Demographics:** Job Titles: VP Operations, Head of IT, CIO, Administrative Director. Industries: Financial Services, Manufacturing, Healthcare, Retail. Company Size: 200-4500 employees. Location: India.\n\n**Psychographics:** Values: Efficiency, Compliance, Data-Driven. Motivations: Automate processes, streamline workflows. Frustrations: Fragmented data, slow reporting. Personality Traits: Analytical, Collaborative, Goal-oriented.",
+        "type": "list",
+        "layout": "full-width",
+        "order": 7
+      },
+      {
+        "id": "slide-7",
+        "title": "Pain Points",
+        "content": "1. Delayed or manual reporting impedes decisions.\n2. Multiple disconnected systems.\n3. Slow onboarding and user adoption.\n4. Compliance friction due to manual data.\n5. Difficulty scaling analytics with limited resources.",
+        "type": "list",
+        "layout": "full-width",
+        "order": 8
+      },
+      {
+        "id": "slide-8",
+        "title": "Implementation Roadmap",
+        "content": "**Phase 1: Foundation (Weeks 1-3)** - Tasks: Persona alignment, content calendar, LinkedIn campaigns, workflow audit.\n\n**Phase 2: Engagement (Weeks 4-8)** - Tasks: Execute outreach, launch webinars, gather testimonials.\n\n**Phase 3: Optimization (Weeks 9-12)** - Tasks: A/B test content, deepen nurturing streams, refine onboarding.\n\n**Phase 4: Scale (Quarter 2)** - Tasks: Expand content, widen ABM targets, syndicate best-performing content.",
+        "type": "list",
+        "layout": "full-width",
+        "order": 9
+      },
+      {
+        "id": "slide-9",
+        "title": "Conclusion",
+        "content": "The strategic marketing plan for MI PAL leverages its strengths and opportunities while addressing weaknesses and threats. The implementation roadmap provides a clear path to achieving marketing goals and driving digital transformation for Indian enterprises.",
+        "type": "content",
+        "layout": "centered",
+        "order": 10
+      },
+      {
+        "id": "slide-10",
+        "title": "Thank You",
+        "content": "Questions & Discussion",
+        "type": "conclusion",
+        "layout": "centered",
+        "order": 11
+      }
+    ],
+    "theme": "modern",
+    "estimatedDuration": 22
+  }
+}

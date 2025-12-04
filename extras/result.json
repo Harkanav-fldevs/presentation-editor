@@ -1,0 +1,444 @@
+{
+  "success": true,
+  "data": {
+    "title": "Strategic Overview for Indian Enterprises",
+    "slides": [
+      {
+        "id": "slide-1",
+        "title": "Strategy Overview",
+        "content": "Status: Complete\nCompletion Percentage: 75%\nVersion: 2\nActive: Yes",
+        "type": "content",
+        "order": 1,
+        "template": "content",
+        "templateData": {}
+      },
+      {
+        "id": "slide-2-strengths",
+        "title": "Strengths",
+        "content": "- Strong integration of advanced analytics and automation within one platform for Indian enterprises\n- User-friendly data upload & dashboard creation (low IT friction)\n- Agile team size for fast adaptation to market needs\n- Relevant case studies/persona targeting in India-focused sectors",
+        "type": "content",
+        "order": 2,
+        "template": "strengths",
+        "templateData": {
+          "strengths": [
+            "Strong integration of advanced analytics and automation within one platform for Indian enterprises",
+            "User-friendly data upload & dashboard creation (low IT friction)",
+            "Agile team size for fast adaptation to market needs",
+            "Relevant case studies/persona targeting in India-focused sectors"
+          ]
+        }
+      },
+      {
+        "id": "slide-3-strengths",
+        "title": "Strengths",
+        "content": "- Limited brand awareness compared to established competitors (e.g., Yellow.ai, Uniphore)\n- Small marketing team (2-5 people) constrains campaign scale",
+        "type": "content",
+        "order": 3,
+        "template": "strengths",
+        "templateData": {
+          "strengths": [
+            "Limited brand awareness compared to established competitors (e.g., Yellow.ai, Uniphore)",
+            "Small marketing team (2-5 people) constrains campaign scale"
+          ]
+        }
+      },
+      {
+        "id": "slide-3-weaknesses",
+        "title": "Weaknesses",
+        "content": "- Lack of deep multi-industry testimonials (especially public sector or global MNCs)\n- Product onboarding may still face friction for large and traditional organizations",
+        "type": "content",
+        "order": 3.1,
+        "template": "weaknesses",
+        "templateData": {
+          "weaknesses": [
+            "Lack of deep multi-industry testimonials (especially public sector or global MNCs)",
+            "Product onboarding may still face friction for large and traditional organizations"
+          ]
+        }
+      },
+      {
+        "id": "slide-4-strengths",
+        "title": "Strengths",
+        "content": "- Integration-compliant with India-focused tech stacks (Tally, Zoho, local ERPs)\n- Partnership opportunity with ERP/CRM vendors and local SI/channel partners",
+        "type": "content",
+        "order": 4,
+        "template": "strengths",
+        "templateData": {
+          "strengths": [
+            "Integration-compliant with India-focused tech stacks (Tally, Zoho, local ERPs)",
+            "Partnership opportunity with ERP/CRM vendors and local SI/channel partners"
+          ]
+        }
+      },
+      {
+        "id": "slide-4-opportunities",
+        "title": "Opportunities",
+        "content": "- Indian enterprise digital transformation wave (BFSI, healthcare, manufacturing, retail)\n- Competitor reliance on chat/voice AI leaves a niche for deep analytics process automation",
+        "type": "content",
+        "order": 4.2,
+        "template": "opportunities",
+        "templateData": {
+          "opportunities": [
+            "Indian enterprise digital transformation wave (BFSI, healthcare, manufacturing, retail)",
+            "Competitor reliance on chat/voice AI leaves a niche for deep analytics process automation"
+          ]
+        }
+      },
+      {
+        "id": "slide-5-opportunities",
+        "title": "Opportunities",
+        "content": "- Security or regulatory requirements in sensitive verticals (finance, healthcare)",
+        "type": "content",
+        "order": 5.2,
+        "template": "opportunities",
+        "templateData": {
+          "opportunities": [
+            "Security or regulatory requirements in sensitive verticals (finance, healthcare)"
+          ]
+        }
+      },
+      {
+        "id": "slide-5-threats",
+        "title": "Threats",
+        "content": "- Large AI incumbents investing in India/Asia\n- Commoditization of dashboard and AI analytics tools\n- Competitor trajectory towards bundled AI/automation suites",
+        "type": "content",
+        "order": 5.3,
+        "template": "threats",
+        "templateData": {
+          "threats": [
+            "Large AI incumbents investing in India/Asia",
+            "Commoditization of dashboard and AI analytics tools",
+            "Competitor trajectory towards bundled AI/automation suites"
+          ]
+        }
+      },
+      {
+        "id": "slide-6",
+        "title": "Brand Story",
+        "content": "Hero: Indian enterprise decision-makers (e.g., IT Heads, Operations, Directors) striving for digital transformation and efficiency.\nProblem: Fragmented, manual business processes block timely insights and productivity—causing slow decisions, costly errors, and low tool adoption across teams.\nSolution: MI PAL's AI assistant seamlessly unifies analysis, dashboards, and workflow automation across multiple Indian business systems—enabling fast, accurate, and scalable decisions, all through accessible, no-code interfaces.\nSuccess: Enterprises achieve rapid digital transformation with operational agility, better compliance, reduced manual effort, and empowered teams, becoming industry benchmarks for efficiency and innovation.",
+        "type": "content",
+        "order": 6,
+        "template": "content",
+        "templateData": {}
+      },
+      {
+        "id": "slide-7",
+        "title": "Marketing Mix - Channels",
+        "content": "- LinkedIn (organic & paid)\n- Account-Based Marketing (ABM)/sales outreach\n- Industry-specific webinars (Indian BFSI, healthcare, retail)\n- Content marketing (blogs, whitepapers, ROI calculators)\n- Email nurturing sequences\n- Channel/partner co-marketing\n- Selective industry events & conferences (e.g., NASSCOM, CII)",
+        "type": "content",
+        "order": 7,
+        "template": "bullet-list",
+        "templateData": {
+          "bullets": [
+            "LinkedIn (organic & paid)",
+            "Account-Based Marketing (ABM)/sales outreach",
+            "Industry-specific webinars (Indian BFSI, healthcare, retail)",
+            "Content marketing (blogs, whitepapers, ROI calculators)",
+            "Email nurturing sequences",
+            "Channel/partner co-marketing",
+            "Selective industry events & conferences (e.g., NASSCOM, CII)"
+          ]
+        }
+      },
+      {
+        "id": "slide-8",
+        "title": "Marketing Mix - Tactics",
+        "content": "- Targeted LinkedIn campaigns for key buyer personas (filtered for Indian mid-large company titles)\n- Create sector-relevant case studies and interactive ROI tools for BFSI, healthcare, manufacturing\n- Host educational webinars with integration/demo focus tied to local Indian tech stacks\n- Launch ABM/email cadences for target Indian accounts (CXO, Heads of IT/Ops)\n- Develop translations/local content variants as needed (EN+regional for India)\n- Set up partnerships with SI/channel/ERP vendors to extend reach\n- Leverage reviews/testimonials from pilot users with clear business outcomes",
+        "type": "content",
+        "order": 8,
+        "template": "bullet-list",
+        "templateData": {
+          "bullets": [
+            "Targeted LinkedIn campaigns for key buyer personas (filtered for Indian mid-large company titles)",
+            "Create sector-relevant case studies and interactive ROI tools for BFSI, healthcare, manufacturing",
+            "Host educational webinars with integration/demo focus tied to local Indian tech stacks",
+            "Launch ABM/email cadences for target Indian accounts (CXO, Heads of IT/Ops)",
+            "Develop translations/local content variants as needed (EN+regional for India)",
+            "Set up partnerships with SI/channel/ERP vendors to extend reach",
+            "Leverage reviews/testimonials from pilot users with clear business outcomes"
+          ]
+        }
+      },
+      {
+        "id": "slide-9",
+        "title": "Marketing Mix - Budget Allocation",
+        "content": "- LinkedIn Advertising: 25%\n- Content Marketing & SEO: 20%\n- Webinars & Industry Events: 15%\n- Email Marketing & Nurture: 10%\n- ABM/Outbound: 15%\n- Partnership/Channel Enablement: 10%\n- Product Demos/Workshops: 5%\n- Other: 0%",
+        "type": "content",
+        "order": 9,
+        "template": "pie-chart",
+        "templateData": {
+          "type": "pie",
+          "data": [
+            {
+              "name": "LinkedIn Advertising",
+              "value": 25
+            },
+            {
+              "name": "Content Marketing & SEO",
+              "value": 20
+            },
+            {
+              "name": "Webinars & Industry Events",
+              "value": 15
+            },
+            {
+              "name": "Email Marketing & Nurture",
+              "value": 10
+            },
+            {
+              "name": "ABM/Outbound",
+              "value": 15
+            },
+            {
+              "name": "Partnership/Channel Enablement",
+              "value": 10
+            },
+            {
+              "name": "Product Demos/Workshops",
+              "value": 5
+            },
+            {
+              "name": "Other",
+              "value": 0
+            }
+          ],
+          "dataKey": "value",
+          "nameKey": "name",
+          "colors": [
+            "#3b82f6",
+            "#10b981",
+            "#f59e0b",
+            "#ef4444",
+            "#8b5cf6",
+            "#3b82f6",
+            "#10b981",
+            "#f59e0b"
+          ]
+        }
+      },
+      {
+        "id": "slide-10",
+        "title": "Target Audience - Demographics",
+        "content": "- Job Titles: VP Operations, Head of IT & Digital Transformation, CIO, Administrative Director\n- Industries: Financial Services, Manufacturing, Healthcare, Retail\n- Seniority: Director, VP, Head, CIO, CTO\n- Company Size: 200-4500 employees\n- Location: India\n- Education Levels: B.Tech, MBA, M.Tech, Postgraduate",
+        "type": "content",
+        "order": 10,
+        "template": "bullet-list",
+        "templateData": {
+          "bullets": [
+            "Job Titles: VP Operations, Head of IT & Digital Transformation, CIO, Administrative Director",
+            "Industries: Financial Services, Manufacturing, Healthcare, Retail",
+            "Seniority: Director, VP, Head, CIO, CTO",
+            "Company Size: 200-4500 employees",
+            "Location: India",
+            "Education Levels: B.Tech, MBA, M.Tech, Postgraduate"
+          ]
+        }
+      },
+      {
+        "id": "slide-11",
+        "title": "Target Audience - Psychographics",
+        "content": "- Values: Efficiency, Compliance, Data-Driven, Operational Improvement\n- Motivations: Automate manual data and reporting processes, Streamline cross-functional workflows, Quick actionable decision-making, Ensure regulatory compliance\n- Frustrations: Fragmented data and tools, Manual & slow reporting, Limited IT bandwidth, Low adoption of analytics tools\n- Personality Traits: Analytical, Collaborative, Goal-oriented, Change Agent",
+        "type": "content",
+        "order": 11,
+        "template": "bullet-list",
+        "templateData": {
+          "bullets": [
+            "Values: Efficiency, Compliance, Data-Driven, Operational Improvement",
+            "Motivations: Automate manual data and reporting processes, Streamline cross-functional workflows, Quick actionable decision-making, Ensure regulatory compliance",
+            "Frustrations: Fragmented data and tools, Manual & slow reporting, Limited IT bandwidth, Low adoption of analytics tools",
+            "Personality Traits: Analytical, Collaborative, Goal-oriented, Change Agent"
+          ]
+        }
+      },
+      {
+        "id": "slide-12",
+        "title": "Target Audience - Pain Points",
+        "content": "- Delayed or manual reporting impedes decisions\n- Multiple disconnected systems\n- Slow onboarding and user adoption\n- Compliance and audit friction due to manual data\n- Difficulty scaling analytics with limited resources",
+        "type": "content",
+        "order": 12,
+        "template": "bullet-list",
+        "templateData": {
+          "bullets": [
+            "Delayed or manual reporting impedes decisions",
+            "Multiple disconnected systems",
+            "Slow onboarding and user adoption",
+            "Compliance and audit friction due to manual data",
+            "Difficulty scaling analytics with limited resources"
+          ]
+        }
+      },
+      {
+        "id": "slide-13",
+        "title": "Implementation Roadmap - Foundation",
+        "content": "Phase: Foundation (Weeks 1-3)\nTasks:\n- Persona & ICP alignment for ABM lists\n- Establish core content calendar (case studies, ROI tools)\n- Set up LinkedIn campaigns and website tracking\n- Internal workflow audit for automation priorities",
+        "type": "content",
+        "order": 13,
+        "template": "timeline",
+        "templateData": {
+          "events": [
+            {
+              "phase": "Foundation",
+              "duration": "Weeks 1-3",
+              "tasks": [
+                "Persona & ICP alignment for ABM lists",
+                "Establish core content calendar (case studies, ROI tools)",
+                "Set up LinkedIn campaigns and website tracking",
+                "Internal workflow audit for automation priorities"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "slide-14",
+        "title": "Implementation Roadmap - Engagement",
+        "content": "Phase: Engagement (Weeks 4-8)\nTasks:\n- Execute LinkedIn and ABM/email outreach\n- Launch sector-focused webinars and demo series\n- Start partner/channel co-marketing pilots\n- Gather early pilot case studies/testimonials",
+        "type": "content",
+        "order": 14,
+        "template": "timeline",
+        "templateData": {
+          "events": [
+            {
+              "phase": "Engagement",
+              "duration": "Weeks 4-8",
+              "tasks": [
+                "Execute LinkedIn and ABM/email outreach",
+                "Launch sector-focused webinars and demo series",
+                "Start partner/channel co-marketing pilots",
+                "Gather early pilot case studies/testimonials"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "slide-15",
+        "title": "Implementation Roadmap - Optimization",
+        "content": "Phase: Optimization (Weeks 9-12)\nTasks:\n- A/B test paid and organic content for top lead drivers\n- Deepen nurturing streams (webinar follow-ups, product tours)\n- Refine onboarding/support flows to reduce friction\n- Standardize two partnership/integration rollouts",
+        "type": "content",
+        "order": 15,
+        "template": "timeline",
+        "templateData": {
+          "events": [
+            {
+              "phase": "Optimization",
+              "duration": "Weeks 9-12",
+              "tasks": [
+                "A/B test paid and organic content for top lead drivers",
+                "Deepen nurturing streams (webinar follow-ups, product tours)",
+                "Refine onboarding/support flows to reduce friction",
+                "Standardize two partnership/integration rollouts"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "slide-16",
+        "title": "Implementation Roadmap - Scale",
+        "content": "Phase: Scale (Quarter 2)\nTasks:\n- Expand regional/localization content for further Indian states\n- Widen ABM/partner targets based on Q1 results\n- Annualize and syndicate best-performing content/case studies",
+        "type": "content",
+        "order": 16,
+        "template": "timeline",
+        "templateData": {
+          "events": [
+            {
+              "phase": "Scale",
+              "duration": "Quarter 2",
+              "tasks": [
+                "Expand regional/localization content for further Indian states",
+                "Widen ABM/partner targets based on Q1 results",
+                "Annualize and syndicate best-performing content/case studies"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "slide-17",
+        "title": "Personas Overview",
+        "content": "Total Personas: 3\n- Amit Mehra: IT Manager\n- Priya Kulkarni: Head of Operations\n- Sonal Mehta: Head of Digital Strategy",
+        "type": "content",
+        "order": 17,
+        "template": "persona-card",
+        "templateData": {
+          "personas": [
+            {
+              "name": "Amit Mehra",
+              "role": "IT Manager"
+            },
+            {
+              "name": "Priya Kulkarni",
+              "role": "Head of Operations"
+            },
+            {
+              "name": "Sonal Mehta",
+              "role": "Head of Digital Strategy"
+            }
+          ]
+        }
+      },
+      {
+        "id": "slide-18",
+        "title": "Competitor Analysis - Overview",
+        "content": "Total Competitors: 5\n- Hootsuite\n- Sprout Social\n- Planhat\n- Upsales\n- Dataciph",
+        "type": "content",
+        "order": 18,
+        "template": "bullet-list",
+        "templateData": {
+          "bullets": [
+            "Hootsuite",
+            "Sprout Social",
+            "Planhat",
+            "Upsales",
+            "Dataciph"
+          ]
+        }
+      },
+      {
+        "id": "slide-19",
+        "title": "Ideal Customer Profiles - Overview",
+        "content": "Total ICPs: 3\n- SMB to Mid-Market Indian Enterprises in Retail, Healthcare, and Manufacturing\n- Mid-Large Indian Enterprises in Technology and Data-Intensive Sectors",
+        "type": "content",
+        "order": 19,
+        "template": "bullet-list",
+        "templateData": {
+          "bullets": [
+            "SMB to Mid-Market Indian Enterprises in Retail, Healthcare, and Manufacturing",
+            "Mid-Large Indian Enterprises in Technology and Data-Intensive Sectors"
+          ]
+        }
+      },
+      {
+        "id": "slide-20",
+        "title": "Goals Overview",
+        "content": "Total Goals: 3\n- Launch two new Indian market-specific use cases\n- Increase customer onboarding capacity\n- Integrate MIPAL with additional major Indian ERP/legacy systems",
+        "type": "content",
+        "order": 20,
+        "template": "bullet-list",
+        "templateData": {
+          "bullets": [
+            "Launch two new Indian market-specific use cases",
+            "Increase customer onboarding capacity",
+            "Integrate MIPAL with additional major Indian ERP/legacy systems"
+          ]
+        }
+      },
+      {
+        "id": "slide-21",
+        "title": "Conclusion",
+        "content": "The strategic overview highlights the strengths, weaknesses, opportunities, and threats faced by Indian enterprises. The implementation roadmap and targeted marketing mix are designed to enhance brand awareness and customer engagement.",
+        "type": "content",
+        "order": 21,
+        "template": "conclusion",
+        "templateData": {}
+      }
+    ],
+    "theme": "modern",
+    "estimatedDuration": 10
+  },
+  "enhanced": true,
+  "multiAgent": true,
+  "templateSelection": "intelligent-mastra-workflow",
+  "workflow": "presentation-workflow"
+}
